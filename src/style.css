@@ -1,0 +1,29 @@
+
+.header {
+    background-color: #147ef7; /* Fundo azul marinho */
+    color: #ffffff; /* Texto em branco */
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+  }
+  .education {
+    background-color: #1e2a38; /* Fundo azul marinho */
+    color: #ffffff; /* Texto em branco */
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+  }
+  .experience {
+    background-color: #1e2a38; /* Fundo azul marinho */
+    color: #ffffff; /* Texto em branco */
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+  }
+  .skills {
+    background-color: #1e2a38; /* Fundo azul marinho */
+    color: #ff0000; /* Texto em branco */
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+  }
